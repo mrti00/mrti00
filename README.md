@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React (JS framework)**
 
-- 👨‍💻 All of my projects are available at  <a href="markomicic.com" target="_blank" rel="noreferrer">
+- 👨‍💻 All of my projects are available at  <a href="markomicic.com" target="_blank" rel="noreferrer"> markomicic.com </a>
 
 - 📫 How to reach me **micicmaarko@gmail.com**
 
