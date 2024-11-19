@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marko</h1>
 <h3 align="center">A passionate Frontend developer from Serbia</h3>
 
-- 👨‍💻 All of my projects are available at <a href="https://markomicic.com" target="_blank" rel="noreferrer">markomicic.com</a>
+- 👨‍💻 All of my projects are available at <a href="https://markomicic.com" target="_blank" rel="noopener noreferrer">markomicic.com</a>
 
 - 📫 How to reach me **micicmaarko@gmail.com**
 
